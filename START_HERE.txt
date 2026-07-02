@@ -1,0 +1,19 @@
+PERSONAMIND AI 2.0 - HIGH ACCURACY FINAL
+
+1. Open Anaconda Prompt.
+2. Go to this project folder. Example:
+
+cd "C:\Users\OWner\Desktop\PersonaMind_AI_2_0_HIGH_ACCURACY_FINAL"
+
+3. Install libraries:
+
+pip install -r requirements.txt
+
+4. Run the project:
+
+streamlit run frontend.py
+
+IMPORTANT:
+frontend.py = frontend / UI
+backend.py = backend / AI logic
+data folder = CSV and Excel dataset
